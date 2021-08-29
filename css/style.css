@@ -4,6 +4,9 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
 }
+a:hover{
+  color:#EAF6F6;
+}
 hr{
   height: 0;
   width: 10%;
@@ -74,7 +77,6 @@ a {
   margin-top: 100px;
   background-color: #66BFBF;
   padding: 50px;
-  font-size: 1rem;
 }
 .footer-link{
   margin: 20px;
